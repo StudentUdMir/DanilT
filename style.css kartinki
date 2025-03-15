@@ -1,0 +1,36 @@
+<html>
+    <head>
+	<link rel="stylesheet"
+    href="style.css"/>
+        <title>моя страница</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+    <header>
+        <nav>
+            <a href="">главная</a>
+            <a href="">уход</a>
+            <a href="">картинки</a>
+        </nav>
+    </header>
+    <main>
+        <h1>картинки</h1>
+        <img src="https://cs6.pikabu.ru/post_img/2014/04/29/10/1398788453_1486339235.jpg"/>
+        <img src="https://thumbs.dreamstime.com/b/%D0%BA%D1%80%D1%83%D1%82%D0%BE%D0%B9-%D0%B3%D1%83%D1%81%D1%8C-%D0%B2-%D1%81%D0%BE%D0%BB%D0%BD%D0%B5%D1%87%D0%BD%D1%8B%D1%85-%D0%BE%D1%87%D0%BA%D0%B0%D1%85-%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D0%B0%D0%BB%D0%B8%D1%81%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D0%B8%D0%BB%D0%BB%D1%8E%D1%81%D1%82%D1%80%D0%B0%D1%86%D0%B8%D1%8F-%D0%B3%D1%83%D1%81%D1%8F-275407905.jpg"/>
+        <img src="https://i.pinimg.com/736x/22/d8/2c/22d82cb103fdc8f1dc35c6477005d211.jpg"/>
+		<img src="https://pic.rutubelist.ru/video/cd/0f/cd0f1d90810967e5007d3e3b163a3278.png"/>
+		<img src="https://avatars.mds.yandex.net/i?id=59d621b0f79e55423352f02f51e1823ab2cc030a-6142261-images-thumbs&n=13"/>
+		<img src="https://avatars.mds.yandex.net/i?id=8f29a5edc9476bcf5730fe0b8d1bddfcfec64440-6365519-images-thumbs&n=13"/>
+		<img src="https://avatars.mds.yandex.net/i?id=3d27fad871e5dfee0fbe359bd4b8458187cff4b1-9146142-images-thumbs&n=13"/>
+        <img src="https://avatars.mds.yandex.net/i?id=61b5b42599b9eb41acf309bc94c603255a720cc4-3397820-images-thumbs&n=13"/>
+        <img src="https://avatars.mds.yandex.net/i?id=ae6f9f299caee48c7d47d3681910b29ad1a2f172-12803022-images-thumbs&n=13"/>
+        <img src="https://avatars.mds.yandex.net/i?id=e0d79920a08fa6571631f3120e406c4e4d99d441-4907872-images-thumbs&n=13"/>
+        <img src="https://avatars.mds.yandex.net/i?id=314ff47a01a31f32efe3f52bd626257e8ee042c6-5232859-images-thumbs&n=13"/>
+        <img src="https://avatars.mds.yandex.net/i?id=f930ab87557020e74ae4a1dd7e642b6b7c47ee2e-13106613-images-thumbs&n=13"/>
+    </main>
+    <footer>
+        <p>"ooo" gooose</p>
+        <p>2025 год</p>
+    </footer>
+    </body>
+</html>
